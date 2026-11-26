@@ -2,3 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hbs652927-cmyk.github.io/bravo-silver/sitemap.xml
+Sitemap: https://hbs652927-cmyk.github.io/new-silver-times/sitemap.xml
+Sitemap: https://hbs652927-cmyk.github.io/senior-humanities/sitemap.xml
+Sitemap: https://hbs652927-cmyk.github.io/senior-ai-association/sitemap.xml
+Sitemap: https://hbs652927-cmyk.github.io/korea-lifelong-edu/sitemap.xml
